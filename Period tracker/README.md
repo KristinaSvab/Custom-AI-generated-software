@@ -1,4 +1,3 @@
-I wanted to have
 I've created a comprehensive Google Apps Script for tracking your period cycle so you don't have to download an app for it! Here's how to use it:
 
 # Quick Setup Steps:
